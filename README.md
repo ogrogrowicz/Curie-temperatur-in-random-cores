@@ -1,0 +1,1 @@
+# Curie-temperatur-in-random-cores
